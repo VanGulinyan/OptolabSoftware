@@ -6,3 +6,4 @@ Now available:
 - Antaus fs-laser control class
 - Standa stages control class via libximc
 - Piezostage (NVC40) control class
+- Usage Examples
